@@ -1,0 +1,19 @@
+# 电子海图数据（体积大且可能受分发协议限制，不入库）
+*.000
+*.001
+*.002
+*.003
+
+# 生成的报告
+*.docx
+*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# 系统
+.DS_Store
+Thumbs.db
