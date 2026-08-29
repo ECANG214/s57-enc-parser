@@ -6,8 +6,8 @@ S-57 ENC File Parser - Group 3 (第3小组)
 Parses ISO 8211 format S-57 ENC binary files (like CN335002.000).
 
 Usage:
-    python 第3组.py                          → prompts for file path
-    python 第3组.py  path/to/CN335002.000    → direct parse
+    python s57_parser.py                         → prompts for file path
+    python s57_parser.py  path/to/CN335002.000   → direct parse
 
 Compliant with: ISO 8211:1994, IHO S-57 Edition 3.1
 Requires: Python 3.7+, python-docx (pip install python-docx)
