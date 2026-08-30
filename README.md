@@ -106,15 +106,6 @@ s57-enc-parser/
 └── README.md
 ```
 
-## 效果截图
-
-<!-- TODO: 运行 `python s57_parser.py 某海图.000` 后，截图以下输出粘贴至此：
-     1. 控制台逐层解析结果（Leader → DDR → DSID/DSSI → DSPM）
-     2. 目标物标属性 + 中文名解析结果
-     3. 关联的空间矢量坐标输出
-     4. 生成的 Word / txt 报告内容
--->
-
 ## License
 
 MIT
